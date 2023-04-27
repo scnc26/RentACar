@@ -3,3 +3,4 @@ diger developer task tamamladı
 yeni kodlar ekledim task tamamlandı
 
 bazı calismalar yaptim
+localde comflictolursa
